@@ -1,0 +1,49 @@
+/* add your CSS here */
+
+#card {
+	border: 1px solid #cfd1d6;
+	width: 330px;
+	box-shadow: 10px 10px 5px #737477;
+	border-radius: 5px;
+	background-color: #e8bb88;
+}
+
+
+.name {
+	padding-left: 15px;
+}
+
+
+img {
+	width: 300px;
+	padding: 0 15px
+}
+
+
+.facts {
+	border-radius: 5px;
+	border: 1px solid #cfd1d6;
+	width: 270px;
+	margin: 15px;
+	padding: 0 15px;
+}
+
+
+.description {
+	font-style: italic;
+}
+
+
+.list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+.list span {
+	font-weight: bold;
+}
+
+
+
